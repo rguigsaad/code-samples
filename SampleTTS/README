@@ -1,0 +1,189 @@
+TTS implementation Sample code ...
+
+I/SampleTTSActivity ( 2373): Locale 0: ar Language=arabe
+I/SampleTTSActivity ( 2373): Locale 1: ar_EG Language=arabe Country=Égypte
+I/SampleTTSActivity ( 2373): Locale 2: bg Language=bulgare
+I/SampleTTSActivity ( 2373): Locale 3: bg_BG Language=bulgare Country=Bulgarie
+I/SampleTTSActivity ( 2373): Locale 4: bn Language=bengali
+I/SampleTTSActivity ( 2373): Locale 5: bn_BD Language=bengali Country=Bangladesh
+I/SampleTTSActivity ( 2373): Locale 6: bn_IN Language=bengali Country=Inde
+I/SampleTTSActivity ( 2373): Locale 7: ca Language=catalan
+I/SampleTTSActivity ( 2373): Locale 8: ca_ES Language=catalan Country=Espagne
+I/SampleTTSActivity ( 2373): Locale 9: cs Language=tchèque
+I/SampleTTSActivity ( 2373): Locale 10: cs_CZ Language=tchèque Country=République tchèque
+I/SampleTTSActivity ( 2373): Locale 11: da Language=danois
+I/SampleTTSActivity ( 2373): Locale 12: da_DK Language=danois Country=Danemark
+I/SampleTTSActivity ( 2373): Locale 13: de Language=allemand
+I/SampleTTSActivity ( 2373): Locale 14: de_AT Language=allemand Country=Autriche
+I/SampleTTSActivity ( 2373): Locale 15: de_BE Language=allemand Country=Belgique
+I/SampleTTSActivity ( 2373): Locale 16: de_CH Language=allemand Country=Suisse
+I/SampleTTSActivity ( 2373): Locale 17: de_DE Language=allemand Country=Allemagne
+I/SampleTTSActivity ( 2373): Locale 18: de_LI Language=allemand Country=Liechtenstein
+I/SampleTTSActivity ( 2373): Locale 19: de_LU Language=allemand Country=Luxembourg
+I/SampleTTSActivity ( 2373): Locale 20: el Language=grec
+I/SampleTTSActivity ( 2373): Locale 21: el_GR Language=grec Country=Grèce
+I/SampleTTSActivity ( 2373): Locale 22: en Language=anglais
+I/SampleTTSActivity ( 2373): Locale 23: en_AU Language=anglais Country=Australie
+I/SampleTTSActivity ( 2373): Locale 24: en_BE Language=anglais Country=Belgique
+I/SampleTTSActivity ( 2373): Locale 25: en_BW Language=anglais Country=Botswana
+I/SampleTTSActivity ( 2373): Locale 26: en_BZ Language=anglais Country=Belize
+I/SampleTTSActivity ( 2373): Locale 27: en_CA Language=anglais Country=Canada
+I/SampleTTSActivity ( 2373): Locale 28: en_GB Language=anglais Country=Royaume-Uni
+I/SampleTTSActivity ( 2373): Locale 29: en_HK Language=anglais Country=R.A.S. chinoise de Hong Kong
+I/SampleTTSActivity ( 2373): Locale 30: en_IE Language=anglais Country=Irlande
+I/SampleTTSActivity ( 2373): Locale 31: en_IN Language=anglais Country=Inde
+I/SampleTTSActivity ( 2373): Locale 32: en_JM Language=anglais Country=Jamaïque
+I/SampleTTSActivity ( 2373): Locale 33: en_MH Language=anglais Country=Îles Marshall
+I/SampleTTSActivity ( 2373): Locale 34: en_MT Language=anglais Country=Malte
+I/SampleTTSActivity ( 2373): Locale 35: en_NA Language=anglais Country=Namibie
+I/SampleTTSActivity ( 2373): Locale 36: en_NZ Language=anglais Country=Nouvelle-Zélande
+I/SampleTTSActivity ( 2373): Locale 37: en_PH Language=anglais Country=Philippines
+I/SampleTTSActivity ( 2373): Locale 38: en_PK Language=anglais Country=Pakistan
+I/SampleTTSActivity ( 2373): Locale 39: en_SG Language=anglais Country=Singapour
+I/SampleTTSActivity ( 2373): Locale 40: en_TT Language=anglais Country=Trinité-et-Tobago
+I/SampleTTSActivity ( 2373): Locale 41: en_US Language=anglais Country=États-Unis
+I/SampleTTSActivity ( 2373): Locale 42: en_US_POSIX Language=anglais Country=États-Unis
+I/SampleTTSActivity ( 2373): Locale 43: en_VI Language=anglais Country=Îles Vierges des États-Unis
+I/SampleTTSActivity ( 2373): Locale 44: en_ZA Language=anglais Country=Afrique du Sud
+I/SampleTTSActivity ( 2373): Locale 45: en_ZW Language=anglais Country=Zimbabwe
+I/SampleTTSActivity ( 2373): Locale 46: es Language=espagnol
+I/SampleTTSActivity ( 2373): Locale 47: es_AR Language=espagnol Country=Argentine
+I/SampleTTSActivity ( 2373): Locale 48: es_BO Language=espagnol Country=Bolivie
+I/SampleTTSActivity ( 2373): Locale 49: es_CL Language=espagnol Country=Chili
+I/SampleTTSActivity ( 2373): Locale 50: es_CO Language=espagnol Country=Colombie
+I/SampleTTSActivity ( 2373): Locale 51: es_CR Language=espagnol Country=Costa Rica
+I/SampleTTSActivity ( 2373): Locale 52: es_DO Language=espagnol Country=République dominicaine
+I/SampleTTSActivity ( 2373): Locale 53: es_EC Language=espagnol Country=Équateur
+I/SampleTTSActivity ( 2373): Locale 54: es_ES Language=espagnol Country=Espagne
+I/SampleTTSActivity ( 2373): Locale 55: es_GQ Language=espagnol Country=Guinée équatoriale
+I/SampleTTSActivity ( 2373): Locale 56: es_GT Language=espagnol Country=Guatemala
+I/SampleTTSActivity ( 2373): Locale 57: es_HN Language=espagnol Country=Honduras
+I/SampleTTSActivity ( 2373): Locale 58: es_MX Language=espagnol Country=Mexique
+I/SampleTTSActivity ( 2373): Locale 59: es_NI Language=espagnol Country=Nicaragua
+I/SampleTTSActivity ( 2373): Locale 60: es_PA Language=espagnol Country=Panama
+I/SampleTTSActivity ( 2373): Locale 61: es_PE Language=espagnol Country=Pérou
+I/SampleTTSActivity ( 2373): Locale 62: es_PR Language=espagnol Country=Porto Rico
+I/SampleTTSActivity ( 2373): Locale 63: es_PY Language=espagnol Country=Paraguay
+I/SampleTTSActivity ( 2373): Locale 64: es_SV Language=espagnol Country=El Salvador
+I/SampleTTSActivity ( 2373): Locale 65: es_US Language=espagnol Country=États-Unis
+I/SampleTTSActivity ( 2373): Locale 66: es_UY Language=espagnol Country=Uruguay
+I/SampleTTSActivity ( 2373): Locale 67: es_VE Language=espagnol Country=Venezuela
+I/SampleTTSActivity ( 2373): Locale 68: et Language=estonien
+I/SampleTTSActivity ( 2373): Locale 69: et_EE Language=estonien Country=Estonie
+I/SampleTTSActivity ( 2373): Locale 70: eu Language=basque
+I/SampleTTSActivity ( 2373): Locale 71: eu_ES Language=basque Country=Espagne
+I/SampleTTSActivity ( 2373): Locale 72: fa Language=persan
+I/SampleTTSActivity ( 2373): Locale 73: fa_IR Language=persan Country=Iran
+I/SampleTTSActivity ( 2373): Locale 74: fi Language=finnois
+I/SampleTTSActivity ( 2373): Locale 75: fi_FI Language=finnois Country=Finlande
+I/SampleTTSActivity ( 2373): Locale 76: fil Language=filipino
+I/SampleTTSActivity ( 2373): Locale 77: fil_PH Language=filipino Country=Philippines
+I/SampleTTSActivity ( 2373): Locale 78: fr Language=français
+I/SampleTTSActivity ( 2373): Locale 79: fr_BE Language=français Country=Belgique
+I/SampleTTSActivity ( 2373): Locale 80: fr_CA Language=français Country=Canada
+I/SampleTTSActivity ( 2373): Locale 81: fr_CH Language=français Country=Suisse
+I/SampleTTSActivity ( 2373): Locale 82: fr_FR Language=français Country=France
+I/SampleTTSActivity ( 2373): Locale 83: fr_LU Language=français Country=Luxembourg
+I/SampleTTSActivity ( 2373): Locale 84: fr_MC Language=français Country=Monaco
+I/SampleTTSActivity ( 2373): Locale 85: gl Language=galicien
+I/SampleTTSActivity ( 2373): Locale 86: gl_ES Language=galicien Country=Espagne
+I/SampleTTSActivity ( 2373): Locale 87: hi Language=hindi
+I/SampleTTSActivity ( 2373): Locale 88: hi_IN Language=hindi Country=Inde
+I/SampleTTSActivity ( 2373): Locale 89: hr Language=croate
+I/SampleTTSActivity ( 2373): Locale 90: hr_HR Language=croate Country=Croatie
+I/SampleTTSActivity ( 2373): Locale 91: hu Language=hongrois
+I/SampleTTSActivity ( 2373): Locale 92: hu_HU Language=hongrois Country=Hongrie
+I/SampleTTSActivity ( 2373): Locale 93: in Language=indonésien
+I/SampleTTSActivity ( 2373): Locale 94: in_ID Language=indonésien Country=Indonésie
+I/SampleTTSActivity ( 2373): Locale 95: is Language=islandais
+I/SampleTTSActivity ( 2373): Locale 96: is_IS Language=islandais Country=Islande
+I/SampleTTSActivity ( 2373): Locale 97: it Language=italien
+I/SampleTTSActivity ( 2373): Locale 98: it_CH Language=italien Country=Suisse
+I/SampleTTSActivity ( 2373): Locale 99: it_IT Language=italien Country=Italie
+I/SampleTTSActivity ( 2373): Locale 100: iw Language=hébreu
+I/SampleTTSActivity ( 2373): Locale 101: iw_IL Language=hébreu Country=Israël
+I/SampleTTSActivity ( 2373): Locale 102: ja Language=japonais
+I/SampleTTSActivity ( 2373): Locale 103: ja_JP Language=japonais Country=Japon
+I/SampleTTSActivity ( 2373): Locale 104: kk Language=kazakh
+I/SampleTTSActivity ( 2373): Locale 105: kk_CYRL Language=kazakh Country=
+I/SampleTTSActivity ( 2373): Locale 106: kk_CYRL_KZ Language=kazakh Country=Kazakhstan
+I/SampleTTSActivity ( 2373): Locale 107: kk_KZ Language=kazakh Country=Kazakhstan
+I/SampleTTSActivity ( 2373): Locale 108: ko Language=coréen
+I/SampleTTSActivity ( 2373): Locale 109: ko_KR Language=coréen Country=Corée du Sud
+I/SampleTTSActivity ( 2373): Locale 110: lt Language=lituanien
+I/SampleTTSActivity ( 2373): Locale 111: lt_LT Language=lituanien Country=Lituanie
+I/SampleTTSActivity ( 2373): Locale 112: lv Language=letton
+I/SampleTTSActivity ( 2373): Locale 113: lv_LV Language=letton Country=Lettonie
+I/SampleTTSActivity ( 2373): Locale 114: mk Language=macédonien
+I/SampleTTSActivity ( 2373): Locale 115: mk_MK Language=macédonien Country=Macédoine
+I/SampleTTSActivity ( 2373): Locale 116: ms Language=malais
+I/SampleTTSActivity ( 2373): Locale 117: ms_BN Language=malais Country=Brunéi Darussalam
+I/SampleTTSActivity ( 2373): Locale 118: ms_MY Language=malais Country=Malaisie
+I/SampleTTSActivity ( 2373): Locale 119: nb Language=norvégien bokmål
+I/SampleTTSActivity ( 2373): Locale 120: nb_NO Language=norvégien bokmål Country=Norvège
+I/SampleTTSActivity ( 2373): Locale 121: nl Language=néerlandais
+I/SampleTTSActivity ( 2373): Locale 122: nl_BE Language=néerlandais Country=Belgique
+I/SampleTTSActivity ( 2373): Locale 123: nl_NL Language=néerlandais Country=Pays-Bas
+I/SampleTTSActivity ( 2373): Locale 124: nn Language=norvégien nynorsk
+I/SampleTTSActivity ( 2373): Locale 125: nn_NO Language=norvégien nynorsk Country=Norvège
+I/SampleTTSActivity ( 2373): Locale 126: no Language=norvégien
+I/SampleTTSActivity ( 2373): Locale 127: no_NO Language=norvégien Country=Norvège
+I/SampleTTSActivity ( 2373): Locale 128: no_NO_NY Language=norvégien Country=Norvège
+I/SampleTTSActivity ( 2373): Locale 129: pl Language=polonais
+I/SampleTTSActivity ( 2373): Locale 130: pl_PL Language=polonais Country=Pologne
+I/SampleTTSActivity ( 2373): Locale 131: pt Language=portugais
+I/SampleTTSActivity ( 2373): Locale 132: pt_BR Language=portugais Country=Brésil
+I/SampleTTSActivity ( 2373): Locale 133: pt_PT Language=portugais Country=Portugal
+I/SampleTTSActivity ( 2373): Locale 134: ro Language=roumain
+I/SampleTTSActivity ( 2373): Locale 135: ro_RO Language=roumain Country=Roumanie
+I/SampleTTSActivity ( 2373): Locale 136: ru Language=russe
+I/SampleTTSActivity ( 2373): Locale 137: ru_RU Language=russe Country=Russie
+I/SampleTTSActivity ( 2373): Locale 138: sk Language=slovaque
+I/SampleTTSActivity ( 2373): Locale 139: sk_SK Language=slovaque Country=Slovaquie
+I/SampleTTSActivity ( 2373): Locale 140: sl Language=slovène
+I/SampleTTSActivity ( 2373): Locale 141: sl_SI Language=slovène Country=Slovénie
+I/SampleTTSActivity ( 2373): Locale 142: sq Language=albanais
+I/SampleTTSActivity ( 2373): Locale 143: sq_AL Language=albanais Country=Albanie
+I/SampleTTSActivity ( 2373): Locale 144: sr Language=serbe
+I/SampleTTSActivity ( 2373): Locale 145: sr_BA Language=serbe Country=Bosnie-Herzégovine
+I/SampleTTSActivity ( 2373): Locale 146: sr_CS Language=serbe Country=Serbie-et-Monténégro
+I/SampleTTSActivity ( 2373): Locale 147: sr_CYRL Language=serbe Country=
+I/SampleTTSActivity ( 2373): Locale 148: sr_CYRL_BA Language=serbe Country=Bosnie-Herzégovine
+I/SampleTTSActivity ( 2373): Locale 149: sr_CYRL_CS Language=serbe Country=Serbie-et-Monténégro
+I/SampleTTSActivity ( 2373): Locale 150: sr_CYRL_ME Language=serbe Country=Monténégro
+I/SampleTTSActivity ( 2373): Locale 151: sr_CYRL_RS Language=serbe Country=Serbie
+I/SampleTTSActivity ( 2373): Locale 152: sr_CYRL_YU Language=serbe Country=Serbie
+I/SampleTTSActivity ( 2373): Locale 153: sr_LATN Language=serbe Country=
+I/SampleTTSActivity ( 2373): Locale 154: sr_LATN_BA Language=serbe Country=Bosnie-Herzégovine
+I/SampleTTSActivity ( 2373): Locale 155: sr_LATN_CS Language=serbe Country=Serbie-et-Monténégro
+I/SampleTTSActivity ( 2373): Locale 156: sr_LATN_ME Language=serbe Country=Monténégro
+I/SampleTTSActivity ( 2373): Locale 157: sr_LATN_RS Language=serbe Country=Serbie
+I/SampleTTSActivity ( 2373): Locale 158: sr_LATN_YU Language=serbe Country=Serbie
+I/SampleTTSActivity ( 2373): Locale 159: sr_ME Language=serbe Country=Monténégro
+I/SampleTTSActivity ( 2373): Locale 160: sr_RS Language=serbe Country=Serbie
+I/SampleTTSActivity ( 2373): Locale 161: sr_YU Language=serbe Country=Serbie
+I/SampleTTSActivity ( 2373): Locale 162: sv Language=suédois
+I/SampleTTSActivity ( 2373): Locale 163: sv_FI Language=suédois Country=Finlande
+I/SampleTTSActivity ( 2373): Locale 164: sv_SE Language=suédois Country=Suède
+I/SampleTTSActivity ( 2373): Locale 165: th Language=thaï
+I/SampleTTSActivity ( 2373): Locale 166: th_TH Language=thaï Country=Thaïlande
+I/SampleTTSActivity ( 2373): Locale 167: th_TH_TRADITIONAL Language=thaï Country=Thaïlande
+I/SampleTTSActivity ( 2373): Locale 168: tl Language=tagalog
+I/SampleTTSActivity ( 2373): Locale 169: tr Language=turc
+I/SampleTTSActivity ( 2373): Locale 170: tr_TR Language=turc Country=Turquie
+I/SampleTTSActivity ( 2373): Locale 171: uk Language=ukrainien
+I/SampleTTSActivity ( 2373): Locale 172: uk_UA Language=ukrainien Country=Ukraine
+I/SampleTTSActivity ( 2373): Locale 173: vi Language=vietnamien
+I/SampleTTSActivity ( 2373): Locale 174: vi_VN Language=vietnamien Country=Viêt Nam
+I/SampleTTSActivity ( 2373): Locale 175: zh Language=chinois
+I/SampleTTSActivity ( 2373): Locale 176: zh_CN Language=chinois Country=Chine
+I/SampleTTSActivity ( 2373): Locale 177: zh_HK Language=chinois Country=R.A.S. chinoise de Hong Kong
+I/SampleTTSActivity ( 2373): Locale 178: zh_HANS Language=chinois Country=
+I/SampleTTSActivity ( 2373): Locale 179: zh_HANS_CN Language=chinois Country=Chine
+I/SampleTTSActivity ( 2373): Locale 180: zh_HANS_SG Language=chinois Country=Singapour
+I/SampleTTSActivity ( 2373): Locale 181: zh_HANT Language=chinois Country=
+I/SampleTTSActivity ( 2373): Locale 182: zh_HANT_HK Language=chinois Country=R.A.S. chinoise de Hong Kong
+I/SampleTTSActivity ( 2373): Locale 183: zh_HANT_MO Language=chinois Country=R.A.S. chinoise de Macao
+I/SampleTTSActivity ( 2373): Locale 184: zh_HANT_TW Language=chinois Country=Taïwan
+I/SampleTTSActivity ( 2373): Locale 185: zh_MO Language=chinois Country=R.A.S. chinoise de Macao
+I/SampleTTSActivity ( 2373): Locale 186: zh_TW Language=chinois Country=Taïwan
